@@ -1,4 +1,4 @@
 print('yayy boii')
-a = 5
+a = 42
 b = True
 print(a+b)
